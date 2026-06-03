@@ -1,0 +1,267 @@
+<PAD>:
+  launch_ms: 1155
+  memory_mb: 294
+AOL:
+  launch_ms: 1142
+  memory_mb: 168
+Amazon Shopping:
+  launch_ms: 812
+  memory_mb: 106
+Android In Call UI:
+  launch_ms: 911
+  memory_mb: 241
+Army Men Strike:
+  launch_ms: 1165
+  memory_mb: 212
+Badoo:
+  launch_ms: 454
+  memory_mb: 245
+Baseball Boy!:
+  launch_ms: 551
+  memory_mb: 119
+Brave Browser:
+  launch_ms: 2267
+  memory_mb: 781
+Calculator:
+  launch_ms: 161
+  memory_mb: 71
+Calendar:
+  launch_ms: 775
+  memory_mb: 237
+Calorie Counter:
+  launch_ms: 1142
+  memory_mb: 186
+Camera:
+  launch_ms: 2374
+  memory_mb: 661
+Clean Master:
+  launch_ms: 418
+  memory_mb: 212
+Clock:
+  launch_ms: 120
+  memory_mb: 42
+Contacts:
+  launch_ms: 934
+  memory_mb: 100
+DigiHUD Pro Speedometer:
+  launch_ms: 1050
+  memory_mb: 174
+Discord:
+  launch_ms: 1104
+  memory_mb: 146
+EntertaiNow:
+  launch_ms: 989
+  memory_mb: 181
+Facebook:
+  launch_ms: 1306
+  memory_mb: 292
+Facebook Messenger:
+  launch_ms: 1199
+  memory_mb: 275
+Faceu:
+  launch_ms: 712
+  memory_mb: 244
+Flickr:
+  launch_ms: 842
+  memory_mb: 282
+Flipboard Briefing:
+  launch_ms: 696
+  memory_mb: 107
+Gmail:
+  launch_ms: 852
+  memory_mb: 313
+Google:
+  launch_ms: 1054
+  memory_mb: 119
+Google Chrome:
+  launch_ms: 2148
+  memory_mb: 773
+Google Drive:
+  launch_ms: 1073
+  memory_mb: 290
+Google Photos:
+  launch_ms: 475
+  memory_mb: 112
+Google Play Music:
+  launch_ms: 1045
+  memory_mb: 207
+Google Play Store:
+  launch_ms: 910
+  memory_mb: 286
+Hangouts:
+  launch_ms: 1018
+  memory_mb: 251
+Hulu:
+  launch_ms: 499
+  memory_mb: 296
+Ibotta:
+  launch_ms: 458
+  memory_mb: 254
+Instagram:
+  launch_ms: 1486
+  memory_mb: 256
+Kik:
+  launch_ms: 746
+  memory_mb: 272
+Lucktastic:
+  launch_ms: 802
+  memory_mb: 202
+MAX Cleaner:
+  launch_ms: 1177
+  memory_mb: 281
+MUIQ Survey App:
+  launch_ms: 783
+  memory_mb: 242
+Maps:
+  launch_ms: 2657
+  memory_mb: 864
+Messages:
+  launch_ms: 767
+  memory_mb: 218
+Messaging:
+  launch_ms: 543
+  memory_mb: 126
+Messenger Lite:
+  launch_ms: 805
+  memory_mb: 237
+MetroZone:
+  launch_ms: 1033
+  memory_mb: 234
+Microsoft Bing Search:
+  launch_ms: 919
+  memory_mb: 268
+Microsoft Outlook:
+  launch_ms: 1058
+  memory_mb: 226
+Minesweeper Classic (Mines):
+  launch_ms: 1040
+  memory_mb: 224
+Movie Play Box:
+  launch_ms: 507
+  memory_mb: 238
+Netflix:
+  launch_ms: 2113
+  memory_mb: 955
+OfferUp:
+  launch_ms: 1074
+  memory_mb: 281
+Pandora Music:
+  launch_ms: 612
+  memory_mb: 243
+PayPal Mobile Cash:
+  launch_ms: 1024
+  memory_mb: 168
+Phone:
+  launch_ms: 825
+  memory_mb: 219
+Pinterest:
+  launch_ms: 801
+  memory_mb: 188
+Pixlr:
+  launch_ms: 851
+  memory_mb: 152
+Podcast Addict:
+  launch_ms: 613
+  memory_mb: 160
+Quora:
+  launch_ms: 1153
+  memory_mb: 257
+Receipt Hog:
+  launch_ms: 1003
+  memory_mb: 155
+Reddit:
+  launch_ms: 652
+  memory_mb: 199
+Reward Stash:
+  launch_ms: 1126
+  memory_mb: 188
+Robinhood:
+  launch_ms: 599
+  memory_mb: 131
+Samsung Email:
+  launch_ms: 1174
+  memory_mb: 268
+Samsung Gallery:
+  launch_ms: 438
+  memory_mb: 157
+Samsung Internet Browser:
+  launch_ms: 2976
+  memory_mb: 653
+Samsung Notes:
+  launch_ms: 74
+  memory_mb: 41
+Samsung Pay:
+  launch_ms: 1158
+  memory_mb: 144
+Settings:
+  launch_ms: 164
+  memory_mb: 34
+Slidejoy:
+  launch_ms: 644
+  memory_mb: 275
+Snapchat:
+  launch_ms: 703
+  memory_mb: 245
+Spotify Music:
+  launch_ms: 810
+  memory_mb: 153
+SurveyCow:
+  launch_ms: 431
+  memory_mb: 133
+Swagbucks:
+  launch_ms: 1007
+  memory_mb: 223
+Swagbucks Watch (TV):
+  launch_ms: 1190
+  memory_mb: 236
+"S\u2019more":
+  launch_ms: 725
+  memory_mb: 233
+Telegram:
+  launch_ms: 814
+  memory_mb: 241
+Telegram X:
+  launch_ms: 1016
+  memory_mb: 121
+Text One:
+  launch_ms: 964
+  memory_mb: 123
+TextNow:
+  launch_ms: 894
+  memory_mb: 251
+The PCH App:
+  launch_ms: 771
+  memory_mb: 147
+Twitter:
+  launch_ms: 782
+  memory_mb: 124
+Verizon Messages:
+  launch_ms: 418
+  memory_mb: 157
+Walmart:
+  launch_ms: 445
+  memory_mb: 239
+WeChat:
+  launch_ms: 940
+  memory_mb: 220
+WhatsApp Messenger:
+  launch_ms: 1109
+  memory_mb: 255
+Words With Friends 2:
+  launch_ms: 715
+  memory_mb: 236
+Yahoo Mail:
+  launch_ms: 1062
+  memory_mb: 235
+YouTube:
+  launch_ms: 2410
+  memory_mb: 892
+default:
+  launch_ms: 1000
+  memory_mb: 150
+eBay:
+  launch_ms: 1149
+  memory_mb: 257
+imo:
+  launch_ms: 648
+  memory_mb: 270
