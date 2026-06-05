@@ -27,10 +27,10 @@ Ring Zero wraps a standard memory backend with a three-stage orchestration loop:
 │       │            │  Monitor   │          │  Manager   │        │
 │       │            └────────────┘          └────────────┘        │
 │       │                                          │               │
-│  ┌────▼─────────────────────────────────────────▼────────┐       │
-│  │              Memory Backend                            │       │
-│  │   MockBackend (Simulation)  |  LinuxBackend (cgroup v2)│       │
-│  └────────────────────────────────────────────────────────┘       │
+│  ┌────▼─────────────────────────────────────────▼─────────┐      │
+│  │              Memory Backend                            │      │
+│  │   MockBackend (Simulation)  |  LinuxBackend (cgroup v2)│      │
+│  └────────────────────────────────────────────────────────┘      │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
