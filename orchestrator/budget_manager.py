@@ -23,6 +23,12 @@ class BudgetManager:
             return 0
         return (self.current_ram_mb + memory_mb) - self.total_budget_mb
 
+    def get_lru_app(self):
+        """Return the oldest (least recently used) app_id, or None if empty."""
+        if not self.app_allocations:
+            return None
+        return next(iter(self.app_allocations))
+
     def reset(self):
         self.current_ram_mb = 0
         self.app_allocations.clear()

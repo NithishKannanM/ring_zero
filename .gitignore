@@ -1,4 +1,39 @@
-venv/
+# Data
+datasets/
+*.json
+*.tsv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Model weights
+*.pt
+*.pth
+
+# Benchmark outputs
+benchmarking/plots/
+benchmarking/benchmark_results.json
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Virtual environments
 .venv/
+venv/
 env/
-datasets
+
+# Documentation
+explain.md

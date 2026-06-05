@@ -30,11 +30,19 @@ if __name__ == "__main__":
         sys.exit(1)
         
     size_mb = int(sys.argv[1])
-    print(f"[{os.getpid()}] Allocating {size_mb} MB...")
+    # Signal readiness
+    print(f"READY")
+    sys.stdout.flush()
     
+    # Wait for the orchestrator to move us to a cgroup before allocating
+    sys.stdin.readline()
+    
+    # print(f"[{os.getpid()}] Allocating {size_mb} MB...")
     mem = allocate_and_touch(size_mb)
+    
     if mem:
-        print(f"[{os.getpid()}] Allocation complete. Holding memory...")
+        print(f"ALLOCATED")
+        sys.stdout.flush()
         try:
             # Keep alive until killed
             while True:
@@ -43,4 +51,3 @@ if __name__ == "__main__":
             pass
         finally:
             mem.close()
-            print(f"[{os.getpid()}] Memory released.")

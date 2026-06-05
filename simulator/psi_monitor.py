@@ -47,3 +47,7 @@ class PSIMonitor:
         """
         metrics = self.read_pressure()
         return metrics['some']['total'] / 1000.0 # Convert microseconds to ms
+        
+    def get_avg10(self):
+        metrics = self.read_pressure()
+        return metrics['some']['avg10']
